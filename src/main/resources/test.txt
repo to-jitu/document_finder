@@ -1,0 +1,123 @@
+Hello - 
+How To Use PowerPoint
+A Brief Introduction to Commonly Used Features
+0
+
+
+
+Advanced AutoShapes
+	By selecting several AutoShapes and right-clickig, you can group them together.
+
+0
+
+Phase One
+
+Phase Two
+
+
+
+Research
+&
+Development
+
+
+
+Embedding Video
+	To Play a Video in Your Slide Show, go to “Insert” and Place your Mouse Over “Movies and Sounds” then Select “Movie From File”
+
+0
+
+
+Tika parsing for file - /Users/jitendranarayan/datadir/Sample.ppt
+Mar 07, 2020 12:29:22 AM org.apache.tika.config.InitializableProblemHandler$3 handleInitializableProblem
+WARNING: J2KImageReader not loaded. JPEG2000 files will not be processed.
+See https://pdfbox.apache.org/2.0/dependencies.html#jai-image-io
+for optional dependencies.
+
+Mar 07, 2020 12:29:22 AM org.apache.tika.config.InitializableProblemHandler$3 handleInitializableProblem
+WARNING: org.xerial's sqlite-jdbc is not loaded.
+Please provide the jar on your classpath to parse sqlite files.
+See tika-parsers/pom.xml for the correct version.
+CREATION_DATE - Thu Feb 10 16:18:44 EST 2005 -> 1108070324000
+Sun Sep 13 06:22:33 EDT 2015
+CONTENT_TYPE - application/vnd.ms-powerpoint
+Tika parsing for file - /Users/jitendranarayan/datadir/.DS_Store
+CREATION_DATE - null -> null
+null
+CONTENT_TYPE - application/octet-stream
+Tika parsing for file - /Users/jitendranarayan/datadir/Jitendra_Narayan.docx
+CREATION_DATE - Wed Jul 08 07:58:00 EDT 2015 -> 1436356680000
+Mon Mar 26 18:55:00 EDT 2018
+CONTENT_TYPE - application/vnd.openxmlformats-officedocument.wordprocessingml.document
+Addin index category and tag - date, May 2004
+Addin index category and tag - date, July 7
+Addin index category and tag - date, August 18 , 2015
+Addin index category and tag - date, Oct 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, Oct 2015 Architect
+Addin index category and tag - date, Feb 2013
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2011
+Addin index category and tag - date, Jan 2013
+Addin index category and tag - date, 2009
+Addin index category and tag - date, Feb 2011
+Addin index category and tag - date, 2008
+Addin index category and tag - date, 2009
+Addin index category and tag - date, Feb , 2008
+Tika parsing for file - /Users/jitendranarayan/datadir/Sample.xlsx
+CREATION_DATE - Thu Aug 03 07:50:33 EDT 2017 -> 1501761033000
+Fri Aug 04 07:31:23 EDT 2017
+CONTENT_TYPE - application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2016
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015 6540 96
+Addin index category and tag - date, 2015
+Tika parsing for file - /Users/jitendranarayan/datadir/Sample.xls
+CREATION_DATE - Thu Aug 03 05:50:33 EDT 2017 -> 1501753833000
+Fri Aug 04 05:27:53 EDT 2017
+CONTENT_TYPE - application/vnd.ms-excel
+Addin index category and tag - date, 2015
+Addin index category and tag - date, 2015
+Tika parsing for file - /Users/jitendranarayan/datadir/sample.txt
+CREATION_DATE - null -> null
+null
+CONTENT_TYPE - text/plain; charset=ISO-8859-1
+Addin index category and tag - date, tomorrow
+Content - null
+FileName - /Users/jitendranarayan/datadir/Sample.ppt
+
+
+
+

@@ -8,14 +8,6 @@ import org.springframework.test.context.support.AnnotationConfigContextLoader;
 
 import com.example.WebConfig;
 
-@RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration( 
-  classes = {WebConfig.class},
-  loader = AnnotationConfigContextLoader.class)
 public class WebConfigTest {
  
-   @Test
-   public void contextLoads(){
-      // When
-   }
 }
