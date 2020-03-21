@@ -72,7 +72,9 @@ NOTE - The App can be trained on many other domain specific category for automat
 
 <h4>Search based on filename</h4>
 
-![Simple Search](/images/search_filename.png)
+![Simple Search](/images/search_filename_sample.png)
+
+![Simple Search](/images/search_filename_around.png)
 
 <h4>More refined query</h4>
 
