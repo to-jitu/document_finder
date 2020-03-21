@@ -23,5 +23,25 @@ dataDir -  Directory for application to search files to be indexed
 
 indexDir - Directory for application to store the index
 
+![Set Up](/images/set_up.png)
+
+Once you input the dataDir and indexDir, Click on Execute
+
+App will search for all files and try to create indexes. App should return Code 200
+
+![Response](/images/response.png)
 
 
+<h1>Search files</h1> 
+
+Use below url in browser -
+
+http://localhost:3119/document/index.html
+
+<h4>Simple Search</h4>
+
+Just enter few words. App will use words as token and try to search the file containing those texts and return files containing those words. It is OR operation on words
+
+![Simple Search](/images/search_oracle.png)
+
+![Simple Search](/images/search_oracle_java.png)
