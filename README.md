@@ -1,5 +1,5 @@
 # document_finder
-Smart Document Finder
+Smart Document Finder - Search for files (txt, docs, presentation ppt, pdf, excel, etc)
 
 Maven Build - mvn package
 
@@ -45,3 +45,49 @@ Just enter few words. App will use words as token and try to search the file con
 ![Simple Search](/images/search_oracle.png)
 
 ![Simple Search](/images/search_oracle_java.png)
+
+<h4>Search based on date and time</h4>
+
+User can enter natural language when it was stored and some text
+
+![Simple Search](/images/search_date.png)
+
+<h4>Search based on Tag</h4>
+
+App will automatically tag the documents/files for below category -
+
+1. Person
+
+2. Date 
+
+3. Organization
+
+4. Location
+
+<h3>Use #Tag</h3>
+
+NOTE - The App can be trained on many other domain specific category for automatically tag 
+  
+![Simple Search](/images/search_person.png)
+
+<h4>Search based on filename</h4>
+
+![Simple Search](/images/search_filename.png)
+
+<h4>More refined query</h4>
+
+![Simple Search](/images/search_stored_2_years.png)
+
+<h1>Future Development</h1>
+
+The Indexing and Searching can be improved a lot like -
+
+1. Indexing more searchable fields 
+
+2. More NLP processing for Named Entity Recognition, Part of Speech, context analysis for more improved automatic tagging.
+
+3. Improved content extraction for domain specific need. Extract information from shapes (ppt), shapes, images, videos, etc.
+
+4. Improved search result based on analytics on user search text.
+
+
